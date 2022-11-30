@@ -1,0 +1,10 @@
+venv/*
+parsing_analysis/*
+.env
+.vscode
+*.csv
+secrets.toml
+utils/__pycache__/utils.cpython-37.pyc
+notebook.ipynb
+maximal-digit-369211-5dfb0707652e.json
+*.pyc
